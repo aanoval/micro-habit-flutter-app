@@ -1,0 +1,27 @@
+name: micro_habit
+description: A simple micro-habit tracking app
+version: 1.0.0
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  flutter_local_notifications: ^17.2.3
+  uuid: ^4.5.0
+  timezone: ^0.9.4
+  animations: ^2.0.11
+  material_design_icons_flutter: ^7.0.7296
+  fl_chart: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator: ^2.0.1
+  build_runner: ^2.4.12
+
+flutter:
+  uses-material-design: true
