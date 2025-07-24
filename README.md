@@ -25,7 +25,7 @@ Code Editor: VS Code or Android Studio recommended
 Installation
 
 Clone the Repository:
-git clone https://github.com/your-username/micro-habit.git
+git clone https://github.com/aanoval/micro-habit-flutter-app
 cd micro-habit
 
 
